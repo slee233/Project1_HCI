@@ -2,7 +2,6 @@
 @media screen and (min-width: 200px){
 	.s_submit{
 		background-image: url('image/submit.png');
-		backgound-repeat: no-repeat;
 		width: 105px;
 		height: 57px;
 		background-position:  0px 0px;
