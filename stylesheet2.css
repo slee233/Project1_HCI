@@ -1,0 +1,73 @@
+@charset "UTF-8";
+@media screen and (min-width: 200px){
+	.s_submit{
+		background-image: url('image/submit.png');
+		backgound-repeat: no-repeat;
+		width: 105px;
+		height: 57px;
+		background-position:  0px 0px;
+		background-repeat: no-repeat;
+		border: 0px;
+		cursor:pointer;
+		outline: 0;
+	}
+	legend{
+		font-size: 50px;
+	}
+	.line{
+		border : 1px solid black;
+	}
+	.left{
+		text-align: left;
+	}
+	.right{
+		text-align: right;
+		margin: auto 57px;
+	}
+	.center{
+		text-align: center;
+	}
+	.blue{
+		color: darkblue;
+	}
+	.orange{
+		color: darkorange;
+	}
+	.red{
+		color: red;
+	}
+	.abc{
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+	}
+    table {
+		margin: auto;
+		table-layout: fixed;
+		/*border : 1px solid black;*/
+ 		margin-bottom: 1em;
+		vertical-align: middle;
+	}
+	tr, td{
+		text-align: center;
+	}
+	body{
+		background-color: lightblue;
+		margin: 0;
+	}
+	fieldset{
+		margin: 0 auto 0;
+		width: 500px;
+	}
+	div.container {
+		margin: 0 auto 0;
+		width: 600px;
+	}
+	.image{ 
+		vertical-align:middle;
+		margin-right: 0;
+	}
+	.back{
+		background-color: white;
+	}
+ }
