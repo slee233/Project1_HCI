@@ -5,6 +5,9 @@ function b(){
 	alert("Your Sign up has completed successfully");
 	//window.history.back();	
 }
+function return(){
+	window.location.replace("index.html");
+}
 function validate(){
 	if(f.id.value == ""){
 		alert("please Enter your ID");	
