@@ -1,5 +1,16 @@
 @charset "UTF-8";
 @media screen and (min-width: 200px){
+	.submit{
+		background-image: url('image/signup2.png');
+		width: 200px;
+		height: 55px;
+		background-position:  0px 0px;
+		background-repeat: no-repeat;
+		border: 0px;
+		cursor:pointer;
+		outline: 0;
+		margin-right: 50px;
+	}
 	legend{
 		font-size: 20px;
 	}
@@ -42,7 +53,7 @@
 	}
 	div.container {
 		margin: 0 auto 0;
-		width: 600px;s
+		width: 600px;
 	}
 	.image{ 
 		vertical-align:middle;
